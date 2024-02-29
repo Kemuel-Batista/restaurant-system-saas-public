@@ -56,3 +56,5 @@ If you want to see what the folder structure was like, visit the repository: htt
 ##### restaurants-repository.ts - https://gist.github.com/Kemuel-Batista/ae1802f0013d61a1814940a5abf255b4
 ##### prisma-restaurants-repository.ts - https://gist.github.com/Kemuel-Batista/3ec726b194070f1030391a2bde69cae7
 ##### prisma-restaurant-mapper.ts - https://gist.github.com/Kemuel-Batista/e49ae56efa7654f6d683a275da6e1e09
+##### restaurant-entity.ts - https://gist.github.com/Kemuel-Batista/74e693d4dff8ec5ac4dce3d12ea46760
+##### aggregate-root.ts - https://gist.github.com/Kemuel-Batista/cb4110bf3d6c750051760f69b5c71025
